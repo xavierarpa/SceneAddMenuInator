@@ -1,0 +1,9 @@
+{
+  "name": "com.xavierarpa.sceneaddmenuinator",
+  "version": "0.1.0",
+  "displayName": "SceneAddMenuInator",
+  "description": "Unity Editor tool to generate MenuItem scripts for additive scene loading from scene folders.",
+  "unity": "2022.3",
+  "author": { "name": "xavierarpa" },
+  "keywords": ["unity", "editor", "scene", "additive", "menuitem", "tool"]
+}
